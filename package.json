@@ -1,0 +1,34 @@
+{
+  "name": "cyto-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinDongFang/cyto-manager.git"
+  },
+  "author": "YinDongFang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YinDongFang/cyto-manager/issues"
+  },
+  "homepage": "https://github.com/YinDongFang/cyto-manager#readme",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "cytoscape": "^3.28.1",
+    "debug": "^4.3.4",
+    "is-bool": "^0.0.3",
+    "is-null": "^1.0.1",
+    "is-number": "^7.0.0",
+    "is-object": "^1.0.2",
+    "jquery": "^3.7.1",
+    "lazy-store-loader": "^2.0.3",
+    "querystring": "^0.2.1",
+    "react": "^18.2.0",
+    "vue": "^3.4.21",
+    "webpack": "^5.91.0"
+  }
+}
